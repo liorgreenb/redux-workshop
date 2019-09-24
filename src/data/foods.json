@@ -1,0 +1,22 @@
+[
+    {
+        "id": "schnitzel",
+        "name": "Schnitzel",
+        "image": "https://www.thespruceeats.com/thmb/LeyN-7W9T0KB2nl6pcuDZckHnjc=/4288x2848/filters:fill(auto,1)/wiener-schnitzel-recipe-1447089-Hero-5b587d6c46e0fb0071b0059d.jpg"
+    },
+    {
+        "id": "pizza",
+        "name": "Pizza",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+    },
+    {
+        "id": "pasta",
+        "name": "Pasta",
+        "image": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-and-Spinach-Pasta-skillet-1-500x480.jpg"
+    },
+    {
+        "id": "hummus",
+        "name": "Hummus",
+        "image": "https://feelgoodfoodie.net/wp-content/uploads/2018/06/Best-Hummus-10-500x500.jpg"
+    }
+]

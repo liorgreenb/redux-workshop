@@ -1,4 +1,5 @@
 body {
+  background: lighten(gray, 43%);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -10,4 +11,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+button {
+  display: inline-block;
+  background: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 20px;
+  padding: 10px;
+  outline: 0;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  
+  &:hover {
+    transform: scale(0.95);
+  }
+}
+
+a {
+  color: orange;
 }

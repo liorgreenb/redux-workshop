@@ -1,0 +1,16 @@
+.food_item_component {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    align-items: center;
+
+    .food_image_container {
+        img {
+            display: inline-block;
+            border: 2px solid rgba(0, 0, 0, 0.3);
+            height: 100px;
+            width: 150px;
+            margin-right: 20px;
+        }
+    }
+}

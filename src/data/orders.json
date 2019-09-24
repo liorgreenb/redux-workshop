@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Ironman",
+        "foods": [
+            "schnitzel",
+            "pasta"
+        ]
+    },
+    {
+        "name": "Captain America",
+        "foods": [
+            "hummus"
+        ]
+    },
+    {
+        "name": "Thor",
+        "foods": [
+            "pizza"
+        ]
+    },
+    {
+        "name": "Black widow",
+        "foods": [
+            "hummus",
+            "pizza"
+        ]
+    },
+    {
+        "name": "Black widow",
+        "foods": [
+            "hummus",
+            "pizza"
+        ]
+    }
+]

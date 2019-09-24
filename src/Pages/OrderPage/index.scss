@@ -1,0 +1,41 @@
+.order_page {
+    ul {
+        list-style: none;
+    }
+    
+    .selectable_food {
+        cursor: pointer;
+        user-select: none;
+
+        img {
+            filter: grayscale(100%);
+            transition: filter 0.2s ease, transform 0.2s ease, color 0.2s ease;
+
+            &:hover {
+                filter: none;
+                transform: scale(0.97);
+            }
+        }
+
+        &.selected {
+            img {
+                filter: none;
+                border-color: orange;
+                transform: scale(0.95);
+            }
+        }
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+
+        .order_input_container {
+            margin-bottom: 20px;
+        }
+
+        .label_text {
+            margin-right: 10px;
+        }        
+    }
+}

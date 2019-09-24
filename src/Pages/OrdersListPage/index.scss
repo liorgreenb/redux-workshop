@@ -1,0 +1,21 @@
+.orders_list_page {
+    ul {
+        list-style: none;
+    }
+
+    .order_item {
+        background: white;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        margin-bottom: 10px;
+        overflow: hidden;
+        padding: 10px;
+        width: 700px;
+
+        .order_header {
+            padding: 20px 0;
+            margin-top: 0;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+    }
+}
